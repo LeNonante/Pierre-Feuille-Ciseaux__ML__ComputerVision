@@ -3,7 +3,7 @@ import mediapipe as mp
 import csv
 import joblib
 # Charger le modèle entraîné
-clf = joblib.load("gesture_model.pkl")
+clf = joblib.load("assets/gesture_model.pkl")
 
 
 # Initialisation de Mediapipe pour la détection des mains
