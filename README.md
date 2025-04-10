@@ -15,9 +15,19 @@ L'objectif de ce projet est d'être une introduction à un future projet de déc
 
 ---
 
-## 🧠 images
+## 📷 Aperçu
 
-- 
+<p align="center">
+  <img src="assets/Pierre.png" alt="Image d'une main qui joue Pierre" width="150">
+</p>
+
+<p align="center">
+  <img src="assets/Feuille.png" alt="Image d'une main qui joue Feuille" width="150">
+</p>
+
+<p align="center">
+  <img src="assets/Ciseaux.png" alt="Image d'une main qui joue Ciseaux" width="150">
+</p>
   
 ---
 
