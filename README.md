@@ -14,7 +14,7 @@ L'objectif de ce projet est d'être une introduction à un future projet de déc
 - S’amuser en jouant à Pierre-Feuille-Ciseaux avec une IA 🤖
 
 ---
-
+ 
 ## 📷 Aperçu
 
 <p align="center">
